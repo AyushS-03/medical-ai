@@ -25,14 +25,14 @@ A React and Flask-based application that provides AI-powered medical assistance 
 
 ### Backend Setup
 
-1. Navigate to the backend directory:
-   ```bash
-   cd backend
-   ```
-
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
+
+2. Navigate to the backend directory:
+   ```bash
+   cd backend
    ```
 
 3. Start the Flask server:
